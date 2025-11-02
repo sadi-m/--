@@ -7,9 +7,16 @@ To study the basic characteristics of analog and digital signals, master the pri
 
 Theoretical background
 
-1. Analog signal - continuous in time and amplitude. Example: sound, radio waves.
-2. Digital signal - discrete in time and amplitude. Represented by a sequence of bits.
-3. Modulation - the process of changing the parameters of the carrier signal (amplitude, frequency, phase) in accordance with the information signal.
+1. Analog signal - continuous in time and amplitude. Example: sound, radio waves
+2.
+3. .[4.txt](https://github.com/user-attachments/files/23289957/4.txt)
+4. [1.txt](https://github.com/user-attachments/files/23289958/1.txt)
+5. [3.txt](https://github.com/user-attachments/files/23289960/3.txt)
+[2.txt](https://github.com/user-attachments/files/23289959/2.txt)
+
+
+6. Digital signal - discrete in time and amplitude. Represented by a sequence of bits.
+7. Modulation - the process of changing the parameters of the carrier signal (amplitude, frequency, phase) in accordance with the information signal.
    - AM (Amplitude Modulation) - change in the amplitude of the carrier.
    - FM (Frequency Modulation) — changing the frequency of the carrier.
    - PM (Phase Modulation) — changing the phase of the carrier.
@@ -17,9 +24,9 @@ Theoretical background
    - FSK (Frequency Shift Keying) is a digital equivalent of FM.
    - PSK (Phase Shift Keying) is a digital equivalent of PM.
 
-4. Noise immunity is the ability of a system to maintain the integrity of transmitted information in the presence of noise. PSK and FSK are generally more resistant to noise than ASK.
+8. Noise immunity is the ability of a system to maintain the integrity of transmitted information in the presence of noise. PSK and FSK are generally more resistant to noise than ASK.
 
-5. Hardware and Software
+9. Hardware and Software
 
 - Personal computer running Windows  
 - Python 3.x with libraries:  
